@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body {
+    background-image: url("https://i.ibb.co/vkRJFtD/Flag-of-da-chocc.png");
+    background-size: cover;
+}
+
+#container {
+width:960px;
+margin: 0 auto;
+background-color: rgba(127, 255, 212, 0.668);
+
+}
+#header {
+    background-image: url("http://jos.gluweb.nl/lessen/web/blue.png");
+    height: 200px;
+    font-size: 50px;
+    font-family:Tahoma;
+    font-weight: bold;
+    text-align: center;
+    background-repeat: no-repeat;
+    line-height: 200px;
+}
+
+#footer {
+    background-color:aquamarine;
+}
